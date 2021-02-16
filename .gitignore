@@ -1,0 +1,14 @@
+pydxanalyze/sample_data
+pydxanalyze/dxfarminfo.txt
+pydxanalyze/pyanalyze.log.*
+pydxanalyze/pyanalyze.log
+pydxanalyze/pyvenv.cfg
+pydxanalyze/venv
+pydxanalyze/lib
+pydxanalyze/bin
+pydxanalyze/.idea
+pydxanalyze/dxfarminfo.txt
+pydxanalyze/delphixpy/v1_8_0/__pycache__
+pydxanalyze/delphixpy/v1_8_0/web/__pycache__
+pydxanalyze/delphixpy/v1_8_0
+*.pyc

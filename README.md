@@ -7,6 +7,11 @@ This tool is currently developed to work on Windows and Mac.
 
 Latest available release with instructions are available to download on this page.
 
+This tool is developed using 3 different technologies to do same work
+- VBA ( Excel Macros )
+- Python ( pydxanalyze )
+- Docker [ Docker container created based on Python code ]
+
 If you have any question or find a bug, please use community.delphix.com,
 dxanalyze@delphix.com distribution list or post it directly on github.
 
