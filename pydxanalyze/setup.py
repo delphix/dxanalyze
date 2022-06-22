@@ -7,7 +7,7 @@ setup(
     install_requires=[
         'Click',
         'matplotlib==2.2.4',
-        'numpy==1.20.1',
+        'numpy==1.22.0',
         'pandas==0.24.2',
         'pytz==2018.9',
         'python-pptx==0.6.17'
